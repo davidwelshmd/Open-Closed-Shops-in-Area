@@ -1,2 +1,2 @@
 # Open-Closed-Shops-in-Area
-An app to check which shops are opening and closing in a shopping area
+A Streamlit app to find closed or operational businesses in specific retail corridors using the Outscraper API.
